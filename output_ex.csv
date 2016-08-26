@@ -1,0 +1,33 @@
+cdn,profile,url
+B574443000004,Apple TV,http://cdn.goprimetime.info/video/1/B574443000004/0/B574443000004.m3u8
+,HLS 3G,http://cdn.goprimetime.info/video/1/B574443000004/0/B574443000004.m3u8
+,HLS WIFI,http://cdn.goprimetime.info/video/1/B574443000004/0/B574443000004.m3u8
+,TV,http://cdn2.goprimetime.info/video/1/B574443000004/0/Manifest
+,Web,http://cdn.goprimetime.info/video/1/B574443000004/0/Manifest-wh.mpd
+,Mobile 3G,http://cdn.goprimetime.info/video/1/B574443000004/0/Manifest-m.mpd
+,Mobile,http://cdn.goprimetime.info/video/1/B574443000004/0/Manifest-mh.mpd
+,Android 3G,http://cdn.goprimetime.info/video/1/B574443000004/0/Manifest-md.mpd
+,Android,http://cdn.goprimetime.info/video/1/B574443000004/0/Manifest-mdh.mpd
+,ChromeCast,http://cdn.goprimetime.info/video/1/B574443000004/0/Manifest-cc.mpd
+,CTH Live 1,http://cdn.goprimetime.info/video/1/B574443000004/0/Manifest-cc.mpd
+,Comigo,http://cdn.goprimetime.info/video/1/B574443000004/0/Manifest-cc.mpd
+,Nano,http://cdn.goprimetime.info/video/1/B574443000004/0/Manifest-stb.mpd
+,EST Download,http://dl.goprimetime.info/download/3/B574443000004/1/file.json
+,Temp Download,http://dl.goprimetime.info/download/3/B574443000004/1/file.json
+,Samsung TV,http://cdn.goprimetime.info/video/1/B574443000004/0/B574443000004-en-tv.ism/Manifest
+C574443000004,Apple TV,http://cdn.goprimetime.info/video/1/C574443000004/0/C574443000004.m3u8
+,HLS 3G,http://cdn.goprimetime.info/video/1/C574443000004/0/C574443000004.m3u8
+,HLS WIFI,http://cdn.goprimetime.info/video/1/C574443000004/0/C574443000004.m3u8
+,TV,http://cdn2.goprimetime.info/video/1/C574443000004/0/Manifest
+,Web,http://cdn.goprimetime.info/video/1/C574443000004/0/Manifest-wh.mpd
+,Mobile 3G,http://cdn.goprimetime.info/video/1/C574443000004/0/Manifest-m.mpd
+,Mobile,http://cdn.goprimetime.info/video/1/C574443000004/0/Manifest-mh.mpd
+,Android 3G,http://cdn.goprimetime.info/video/1/C574443000004/0/Manifest-md.mpd
+,Android,http://cdn.goprimetime.info/video/1/C574443000004/0/Manifest-mdh.mpd
+,ChromeCast,http://cdn.goprimetime.info/video/1/C574443000004/0/Manifest-cc.mpd
+,CTH Live 1,http://cdn.goprimetime.info/video/1/C574443000004/0/Manifest-cc.mpd
+,Comigo,http://cdn.goprimetime.info/video/1/C574443000004/0/Manifest-cc.mpd
+,Nano,http://cdn.goprimetime.info/video/1/C574443000004/0/Manifest-stb.mpd
+,EST Download,http://dl.goprimetime.info/download/3/C574443000004/1/file.json
+,Temp Download,http://dl.goprimetime.info/download/3/C574443000004/1/file.json
+,Samsung TV,http://cdn.goprimetime.info/video/1/C574443000004/0/C574443000004-en-tv.ism/Manifest
