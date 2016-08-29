@@ -43,7 +43,7 @@ temp_download = 'file.json'
 samsung_tv = '-en-tv.ism/Manifest'
 
 url = []
-for line in lines[0:]:
+for line in lines:
 	cdn = line.strip().split(',')
 	#cdn
 	url.append(cdn[0])
@@ -59,11 +59,13 @@ for line in lines[0:]:
 	url2 = "%s/video/2/%s/0/%s%s\n" % (server, cdn[0], cdn[0], hls_3g)
 	#url2 = "%s/video/1/%s/0/%s%s" % (server, cdn[0], cdn[0], hls_3g)
 	#url2 = "%s/%s/%s" % (server, cdn[0], web)
-	
 	url.append(url2)
+	url3 = "%s/video/3/%s/0/%s%s\n" % (server, cdn[0], cdn[0], web)
+	url.append('Web')
+	url.append(url3)
 	#profile = ','.join(url)
 		
-profile = ','.join(url)
+	profile = ','.join(url)
 print profile
 fdout.write(profile)
 fdout.write('\n')	
